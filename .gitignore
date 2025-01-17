@@ -1,0 +1,51 @@
+# Ignore Conda environments
+.conda/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system files (optional)
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Python log files
+*.log
+
+# Ignore Python test files
+test_*.py
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python package files
+*.egg-info/
+dist/
+build/
+*.egg-info
+
+# Ignore Python distribution files
+*.egg
+*.whl
+
+# Ignore Python cache files
+.cache/
+
+# Ignore Python profiling files
+*.prof
+
+# Ignore Python coverage files
+.coverage
+htmlcov/
+
+# Ignore Environment variables
+.env
+
